@@ -1,2 +1,11 @@
-#!/bin/bash
+x#!/bin/bash
+ HEAD
 echo "This School is so cool!"
+
+echo "Best School"
+
+ update_script
+
+
+
+
